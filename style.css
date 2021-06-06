@@ -12,3 +12,18 @@ img{
     color: rgb(87, 31, 31);
     background-color: darkturquoise;
 } */
+#abt{
+    background-color: rgb(92, 128, 56); 
+    color: lightgoldenrodyellow;
+    text-shadow: 1px 1px;
+    font-size: 19px;
+}
+#links{
+    background-color: rgb(194, 166, 124); 
+    color: lavender; 
+    font-size: 24px;
+    width: 120vh;
+}
+.proj h2{
+    padding-left: 100px;
+}
